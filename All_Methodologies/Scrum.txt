@@ -1,0 +1,21 @@
+no
+yes
+yes
+no
+no
+yes
+yes
+yes
+large
+medium
+very complex
+medium-term
+large
+medium involvement
+yes
+high
+yes
+moderately flexible
+yes
+moderately risk-tolerant
+yes
